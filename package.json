@@ -1,0 +1,26 @@
+{
+  "name": "gulp-vm",
+  "version": "1.0.0",
+  "description": "Run scripts in gulp",
+  "main": "gulp-vm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:goatslacker/gulp-vm.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "vm",
+    "node",
+    "scripts",
+    "run"
+  ],
+  "author": "Josh Perez <josh@goatslacker.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goatslacker/gulp-vm/issues"
+  },
+  "homepage": "https://github.com/goatslacker/gulp-vm"
+}
