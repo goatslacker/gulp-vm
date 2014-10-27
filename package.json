@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/goatslacker/gulp-vm/issues"
   },
-  "homepage": "https://github.com/goatslacker/gulp-vm"
+  "homepage": "https://github.com/goatslacker/gulp-vm",
+  "peerDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "dune": "^0.2.0",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  }
 }
